@@ -22,10 +22,11 @@
   line-height: 29px;
   color: var(--color-grey-7);
 }
-.profile_div img {
+.user__img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
+  border: 3px solid var(--color-brand-2);
 }
 
 @media (min-width: 768px) {
